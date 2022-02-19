@@ -1,0 +1,33 @@
+name: image_editor
+description: A new Flutter project.
+
+
+publish_to: 'none'
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.16.0 <3.0.0"
+
+
+dependencies:
+  cupertino_icons: ^1.0.2
+  flutter:
+    sdk: flutter
+  image_gallery_saver: ^1.7.1
+  image_picker: ^0.8.4+8
+  permission_handler: ^8.3.0
+  screenshot: ^1.2.3
+
+dev_dependencies:
+  flutter_lints: ^1.0.0
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+
+
+  uses-material-design: true
+
