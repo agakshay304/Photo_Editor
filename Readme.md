@@ -1,4 +1,4 @@
-##Photo_Editor_app
+# Photo Editor app
 
 ![Screenshot](https://user-images.githubusercontent.com/75080491/154805350-be9edcac-d0b2-40f2-8258-bf3d9be6c112.png)
 
